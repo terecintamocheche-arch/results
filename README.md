@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # JavaScript Assignment
 
 ## Description
@@ -18,3 +19,6 @@ This assignment demonstrates:
 
 ## Author
 Terecinta Mocheche Manyi
+=======
+# results
+>>>>>>> cce2c5599f1fad286d5bc44df34c1914f3fdd4b6
